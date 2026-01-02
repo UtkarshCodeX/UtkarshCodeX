@@ -24,7 +24,7 @@ I'm currently a student waving in a vast sea for fun :P<br>I'm trying to pick-up
 <a href="mailto:utkarshb183@gmail.com" target="blank"><img align="center" src="https://api.iconify.design/logos:google-gmail.svg" alt="utkarshb183" height="30" width="30" /></a>
 &nbsp;
 <a href="https://instagram.com/theguywithspects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theguywithspects" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-6221b5376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-6221b5376" height="30" width="40" /></a></n>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-6221b5376/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-6221b5376" height="30" width="40" /></a></n>
 <a href="https://kaggle.com/ninjaut07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ninjaut07" height="30" width="40" /></a>
 
 </div><br>
