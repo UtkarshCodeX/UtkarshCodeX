@@ -1,19 +1,53 @@
-# 💫 About Me:
-I'm currently a student waving in a vast sea for fun :P<br>I'm trying to pick-up things more and more with knowledge and prowess.<br>I'm interested in Astrophysics, ML and a bit of coding :3<br>Btw I'm pursuing a degree in Mechanical Engineering too ;)
+<h1 align="center">
+  Greetings!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="35px">
+</h1>
+
+<div align="center">
+  
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F73636&center=true&vCenter=true&width=435&lines=A+Mechanical+Guy;Prolly+sleeping+rn" alt="Typing SVG" />
+</div>
+<h1>
+    🌌 About Me
+  </h1> 
+I'm currently a student waving in a vast sea for fun :P<br>I'm trying to pick-up things more and more with knowledge and prowess.<br>I'm interested in Astrophysics, ML and a bit of coding :3<br>Btw I'm pursuing a degree in Mechanical Engineering too ;)<p>
+  Me if I were a Pokémon: 
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="40" style="vertical-align: middle;">
+</p>
+<br><br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theguywithspects) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-6221b5376/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utkarshb183@gmail.com) 
+<div align="left">
+  <h1>🔗 Connecting ~ </h1>
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
+<a href="mailto:utkarshb183@gmail.com" target="blank"><img align="center" src="https://api.iconify.design/logos:google-gmail.svg" alt="utkarshb183" height="30" width="30" /></a>
+&nbsp;
+<a href="https://instagram.com/theguywithspects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theguywithspects" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-6221b5376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-6221b5376" height="30" width="40" /></a></n>
+<a href="https://kaggle.com/ninjaut07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ninjaut07" height="30" width="40" /></a>
+
+</div><br>
+<h1> 💻 Tech Stash <h1></div>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p><br>
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=UtkarshCodeX&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=UtkarshCodeX&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshCodeX&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=UtkarshCodeX&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="60">
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->Trying to live life at its peak 👻
 
