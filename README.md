@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F73636&center=true&vCenter=true&width=435&lines=A+Mechanical+Guy;Prolly+sleeping+rn" alt="Typing SVG" />
 </div>
 <h1>
-    🌌 About Me
+    🌌 About Me :3
   </h1> 
 I'm currently a student waving in a vast sea for fun :P<br>I'm trying to pick-up things more and more with knowledge and prowess.<br>I'm interested in Astrophysics, ML and a bit of coding :3<br>Btw I'm pursuing a degree in Mechanical Engineering too ;)<p>
   Me if I were a Pokémon: 
@@ -28,7 +28,7 @@ I'm currently a student waving in a vast sea for fun :P<br>I'm trying to pick-up
 <a href="https://kaggle.com/ninjaut07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ninjaut07" height="30" width="40" /></a>
 
 </div><br>
-<h1> 💻 Tech Stash <h1></div>
+<h1> 💻 Tech Stash :O<h1></div>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -36,7 +36,7 @@ I'm currently a student waving in a vast sea for fun :P<br>I'm trying to pick-up
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p><br>
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats :|
 ![](https://github-readme-stats.vercel.app/api?username=UtkarshCodeX&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=UtkarshCodeX&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshCodeX&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -45,10 +45,6 @@ I'm currently a student waving in a vast sea for fun :P<br>I'm trying to pick-up
 [![](https://visitcount.itsvg.in/api?id=UtkarshCodeX&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="60">
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->Trying to live life at its peak 👻
 
 
