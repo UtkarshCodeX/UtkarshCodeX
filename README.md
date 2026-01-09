@@ -41,8 +41,7 @@ I'm currently a student waving in a vast sea for fun :P<br>I'm trying to pick-up
 ![](https://nirzak-streak-stats.vercel.app/?user=UtkarshCodeX&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshCodeX&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=UtkarshCodeX&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <p align="center">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->Trying to live life at its peak 👻
